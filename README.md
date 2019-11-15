@@ -1,6 +1,7 @@
 # Image Interpolation and Discrete Fourier Transformation
 
-In this project I have implemented several interpolation algorithms and inverse fast fourier transform.
+In this project I have implemented several interpolation algorithms and inverse fast fourier transform. This project was
+my homework for the [Numerical Programming course in Technical University of Munich](https://www5.in.tum.de/wiki/index.php/Numerisches_Programmieren_-_Summer_18).
 
 **How to test the code:** There is a class called ImageViewer which has a main method. This class provides a graphical
 interface to load your own images and test the resizing of the image with different interpolation methods. The methods I 
